@@ -3,7 +3,7 @@ package com.example.kuba_assignment.cache
 import com.example.kuba_assignment.domain.Journey
 import com.example.kuba_assignment.domain.JourneyId
 import com.example.kuba_assignment.domain.UserId
-import exceptions.NotFoundException
+import com.example.kuba_assignment.exceptions.NotFoundException
 import kotlinx.coroutines.test.runTest
 import org.junit.jupiter.api.*
 import kotlin.test.assertEquals

@@ -1,4 +1,4 @@
-package exceptions
+package com.example.kuba_assignment.exceptions
 
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.ResponseStatus

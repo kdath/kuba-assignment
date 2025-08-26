@@ -5,8 +5,8 @@ import com.example.kuba_assignment.cache.JourneyCache
 import com.example.kuba_assignment.domain.Journey
 import com.example.kuba_assignment.domain.JourneyId
 import com.example.kuba_assignment.domain.UserId
-import exceptions.ForbiddenException
-import exceptions.NotFoundException
+import com.example.kuba_assignment.exceptions.ForbiddenException
+import com.example.kuba_assignment.exceptions.NotFoundException
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
 
